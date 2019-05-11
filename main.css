@@ -1,0 +1,10 @@
+.clock {
+    width: auto;
+    height: auto;
+    text-align: center
+}
+
+* {
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace
+}
